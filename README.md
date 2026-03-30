@@ -30,6 +30,7 @@ I build and maintain several global SaaS platforms designed for efficiency and c
 
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LittleLittleKim&show_icons=true&theme=radical" alt="Kim's GitHub Stats" />
-</p>
+### 📊 GitHub Activity
+![Stars](https://img.shields.io/github/stars/LittleLittleKim?style=flat-square&color=black)
+![Followers](https://img.shields.io/github/followers/LittleLittleKim?style=flat-square&color=black)
+![Top Lang](https://img.shields.io/github/languages/top/LittleLittleKim/aiflowchart.net?style=flat-square&color=black)
