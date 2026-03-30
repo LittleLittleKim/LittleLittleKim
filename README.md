@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kim | Independent Developer
 
-I am a **Full-Stack Engineer** and **Indie Hacker** focused on building high-performance, AI-integrated web applications. I specialize in frontend architecture (LWC/Lit) and leveraging Large Language Models to solve real-world problems.
+I am a **Full-Stack Engineer** and **Indie Hacker** focused on building high-performance, AI-integrated web applications. I specialize in frontend architecture (React/Vue/Web Component) and leveraging Large Language Models to solve real-world problems.
 
 ---
 
